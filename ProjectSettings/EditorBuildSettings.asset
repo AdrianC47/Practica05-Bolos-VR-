@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BolicheVR/Scenes/Inicio.unity
+    guid: fb5819cf7afc03746bd68fcb0341454e
+  - enabled: 1
+    path: Assets/BolicheVR/Scenes/Boliche.unity
+    guid: f899bf01e53476c4cb12c9254644d39b
+  - enabled: 1
+    path: Assets/BolicheVR/Scenes/Boliche2.unity
+    guid: 65bff42d0da66fb4399ed41532832e87
