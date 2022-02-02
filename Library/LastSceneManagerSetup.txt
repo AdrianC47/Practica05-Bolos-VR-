@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/BolicheVR/Scenes/Boliche.unity
+- path: Assets/BolicheVR/Scenes/Inicio.unity
   isLoaded: 1
   isActive: 1

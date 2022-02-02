@@ -14,3 +14,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/BolicheVR/Scenes/Boliche2.unity
     guid: 65bff42d0da66fb4399ed41532832e87
+  - enabled: 1
+    path: Assets/BolicheVR/Scenes/Victoria.unity
+    guid: 5b762a075a57808499069455f053179a
+  - enabled: 1
+    path: Assets/BolicheVR/Scenes/Derrota.unity
+    guid: 0583e48b0c76cea46abb418a3cf41b5f
+  - enabled: 1
+    path: Assets/BolicheVR/Scenes/Victoria2.unity
+    guid: 7a7b09cc5beba4d4a9f58ab95e062dcc
+  - enabled: 1
+    path: Assets/BolicheVR/Scenes/Derrota2.unity
+    guid: 9b0873bdf24beb648b5a53ad877cab06

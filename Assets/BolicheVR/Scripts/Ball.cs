@@ -14,8 +14,10 @@ public class Ball : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKeyDown(KeyCode.Return)) 
+		if (Input.GetMouseButtonDown(0)) 
+	 
 		{	
+		
 			rb.AddForce(Vector3.forward *  power );
 			AudioSource source = GetComponent<AudioSource>();
 			source.Play();
