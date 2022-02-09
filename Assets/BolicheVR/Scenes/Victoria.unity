@@ -496,15 +496,15 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 724412290}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 19.05}
-  m_LocalScale: {x: 0.7046069, y: 0.704607, z: 0.704607}
+  m_LocalPosition: {x: 0, y: 0, z: 2.96}
+  m_LocalScale: {x: 0.3999627, y: 0.39996275, z: 0.39996275}
   m_Children: []
   m_Father: {fileID: 2000751906}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.12, y: 29.6}
+  m_AnchoredPosition: {x: 0.12, y: 0.99}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &724412292
@@ -539,7 +539,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "Felicidades Ganaste\nSi quieres jugar de nuevo \nda click en el personaje"
+  m_Text: "Felicidades GanasteSi quieres jugar de nuevo \nda click en el personaje"
 --- !u!222 &724412293
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1332,7 +1332,7 @@ MonoBehaviour:
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
-  m_DynamicPixelsPerUnit: 5
+  m_DynamicPixelsPerUnit: 100
 --- !u!223 &2000751905
 Canvas:
   m_ObjectHideFlags: 0
@@ -1361,7 +1361,7 @@ RectTransform:
   m_GameObject: {fileID: 2000751902}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 26.22}
-  m_LocalScale: {x: 0.15863317, y: 0.15863322, z: 0.15863322}
+  m_LocalScale: {x: 1.3110114, y: 1.3110113, z: 1.3110113}
   m_Children:
   - {fileID: 724412291}
   m_Father: {fileID: 0}
@@ -1398,7 +1398,7 @@ RectTransform:
   m_GameObject: {fileID: 2033824580}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 30.2}
-  m_LocalScale: {x: 0.030809795, y: 0.03080982, z: 0.03080982}
+  m_LocalScale: {x: 0.34930977, y: 0.34931013, z: 0.34931013}
   m_Children:
   - {fileID: 218142254}
   m_Father: {fileID: 0}
@@ -1406,7 +1406,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -4.98, y: 20.54}
+  m_AnchoredPosition: {x: -4.98, y: 10.93}
   m_SizeDelta: {x: 769, y: 404}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2033824582
@@ -1445,7 +1445,7 @@ MonoBehaviour:
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
-  m_DynamicPixelsPerUnit: 10
+  m_DynamicPixelsPerUnit: 100
 --- !u!223 &2033824584
 Canvas:
   m_ObjectHideFlags: 0

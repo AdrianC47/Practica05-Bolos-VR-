@@ -138,14 +138,14 @@ RectTransform:
   m_GameObject: {fileID: 16686469}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 19.05}
-  m_LocalScale: {x: 0.7046069, y: 0.704607, z: 0.704607}
+  m_LocalScale: {x: 2.9963794, y: 2.996383, z: 2.996383}
   m_Children: []
   m_Father: {fileID: 1132448955}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.12, y: 15.33}
+  m_AnchoredPosition: {x: 0.12, y: -28.4}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &16686471
@@ -337,14 +337,14 @@ RectTransform:
   m_GameObject: {fileID: 332182968}
   m_LocalRotation: {x: -0, y: 0.000000029802305, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 2.858562, y: 2.8585627, z: 2.8585627}
+  m_LocalScale: {x: 35.028873, y: 35.02887, z: 35.02887}
   m_Children: []
   m_Father: {fileID: 558340730}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: -438}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!4 &359984669 stripped
@@ -540,7 +540,7 @@ MonoBehaviour:
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
-  m_DynamicPixelsPerUnit: 10
+  m_DynamicPixelsPerUnit: 100
 --- !u!223 &558340733
 Canvas:
   m_ObjectHideFlags: 0
@@ -900,7 +900,7 @@ MonoBehaviour:
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
-  m_DynamicPixelsPerUnit: 5
+  m_DynamicPixelsPerUnit: 100
 --- !u!223 &1132448954
 Canvas:
   m_ObjectHideFlags: 0
@@ -929,7 +929,7 @@ RectTransform:
   m_GameObject: {fileID: 1132448951}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 26.22}
-  m_LocalScale: {x: 0.15863317, y: 0.15863322, z: 0.15863322}
+  m_LocalScale: {x: 0.19068943, y: 0.19068933, z: 0.19068933}
   m_Children:
   - {fileID: 16686470}
   m_Father: {fileID: 0}

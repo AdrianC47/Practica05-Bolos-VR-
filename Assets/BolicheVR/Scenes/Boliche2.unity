@@ -5301,7 +5301,7 @@ MonoBehaviour:
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
-  m_DynamicPixelsPerUnit: 5
+  m_DynamicPixelsPerUnit: 100
 --- !u!223 &641256184
 Canvas:
   m_ObjectHideFlags: 0
@@ -9631,14 +9631,14 @@ RectTransform:
   m_GameObject: {fileID: 1285642287}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -13}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalScale: {x: 8.502564, y: 8.502563, z: 8.502563}
   m_Children: []
   m_Father: {fileID: 641256181}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -188, y: 58}
+  m_AnchoredPosition: {x: 331, y: -19}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1285642289
@@ -10148,14 +10148,14 @@ RectTransform:
   m_GameObject: {fileID: 1366483158}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -13}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalScale: {x: 6.9651456, y: 6.9651475, z: 6.9651475}
   m_Children: []
   m_Father: {fileID: 641256181}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 178, y: 58}
+  m_AnchoredPosition: {x: 716, y: -17}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1374078381
@@ -11554,14 +11554,14 @@ RectTransform:
   m_GameObject: {fileID: 1611326067}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: -13}
-  m_LocalScale: {x: 2.5697203, y: 2.5697227, z: 2.5697227}
+  m_LocalScale: {x: 14.102661, y: 14.102678, z: 14.102678}
   m_Children: []
   m_Father: {fileID: 641256181}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 19, y: 149}
+  m_AnchoredPosition: {x: 19, y: -15}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1611326069
@@ -15347,15 +15347,15 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1947893442}
   m_LocalRotation: {x: -0, y: 0.000000029802305, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -13.000054}
-  m_LocalScale: {x: 1.9997834, y: 1.9997833, z: 1.9997833}
+  m_LocalPosition: {x: 0, y: 0, z: -13}
+  m_LocalScale: {x: 6.1807237, y: 6.1807265, z: 6.1807265}
   m_Children: []
   m_Father: {fileID: 641256181}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -187.99997, y: -11}
+  m_AnchoredPosition: {x: 145, y: -48}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1947893444
@@ -15390,7 +15390,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Obten una puntuacion mayor a 80 y gana
+  m_Text: "Obten una puntuacion mayor a\n 80 y gana"
 --- !u!222 &1947893445
 CanvasRenderer:
   m_ObjectHideFlags: 0
